@@ -1,0 +1,434 @@
+ACL
+Meaning: Access Control List
+Explanation: Controls access to network resources by allowing or denying traffic
+Real-World Example: Configuring ACLs on a router to restrict access to sensitive systems
+Easy to Remember: Access Control gates who can enter the network
+
+AES
+Meaning: Advanced Encryption Standard
+Explanation: Symmetric encryption algorithm used to protect classified information
+Real-World Example: AES 256-bit encryption used to encrypt data in transit
+Easy to Remember: Advanced and Standard encryption
+
+APT
+Meaning: Advanced Persistent Threat
+Explanation: Prolonged and targeted cyberattack on an organization
+Real-World Example: State-sponsored hacking group infiltrating systems over months
+Easy to Remember: Advanced and Persistent danger, won't let up
+
+ARP
+Meaning: Address Resolution Protocol
+Explanation: Maps an IP address to a physical MAC address on a network
+Real-World Example: ARP cache contains IP to MAC address mappings
+
+Easy to Remember: Links IP Addresses to hardware addresses
+
+BYOD
+Meaning: Bring Your Own Device
+Explanation: Employees using personal mobile devices for work
+Real-World Example: Accessing company email and data from personal laptop
+Easy to Remember: Bring your own gadget to work
+
+CA
+Meaning: Certificate Authority
+Explanation: Validates identities and issues digital certificates
+Real-World Example: VeriSign is a trusted CA that issues SSL certificates for websites
+Easy to Remember: Certifying Authority verifies certificates
+
+CIA
+Meaning: Confidentiality, Integrity, Availability
+Explanation: Information security triad prioritizing protecting data
+Real-World Example: Safeguarding data CIA through access controls, encryption, backups
+Easy to Remember: Keep information private, accurate, and accessible
+
+CSRF
+Meaning: Cross-Site Request Forgery
+Explanation: Attack that forces a user to execute unwanted actions
+Real-World Example: Users unknowingly transfer funds through malicious requests
+Easy to Remember: Cross-site forgery tricks users
+
+DDoS
+Meaning: Distributed Denial of Service
+Explanation: Flooding resources with traffic from many sources
+Real-World Example: Botnet overwhelms a website's servers with junk requests
+Easy to Remember: Distributed flooding knocks systems offline
+
+DMZ
+Meaning: Demilitarized Zone
+Explanation: Isolated network area with limited external access
+Real-World Example: Placing public-facing servers inside a DMZ to restrict exposure
+Easy to Remember: Separate zone outside the firewall wall
+
+DNS
+Meaning: Domain Name System
+Explanation: Resolves human-readable domain names to machine IP addresses
+Real-World Example: DNS servers translate **[www.google.com](http://www.google.com/)** to 172.217.16.206
+Easy to Remember: Phonebook of the Internet
+
+DoS
+Meaning: Denial of Service
+Explanation: Attack preventing legitimate access to systems or resources
+Real-World Example: Ping flood overloads server and crashes it
+Easy to Remember: Knocks service offline
+
+DSA
+Meaning: Digital Signature Algorithm
+Explanation: Provides cryptographic digital signatures using private keys
+Real-World Example: DSA used in GnuPG to generate cryptographic signatures for authentication
+Easy to Remember: Digital Signing of data for integrity
+
+ECC
+Meaning: Elliptic Curve Cryptography
+Explanation: Public key encryption algorithm based on elliptic curve math
+Real-World Example: ECC used in securing Bitcoin transactions
+Easy to Remember: Advanced Encryption Curve
+
+FTP
+Meaning: File Transfer Protocol
+Explanation: Transfers files between network hosts
+Real-World Example: Uploading files to a server using FTP
+Easy to Remember: Sending Files over the network
+
+GPS
+Meaning: Global Positioning System
+Explanation: Provides location and timing information globally
+Real-World Example: Smartphone apps using GPS signals to determine current location
+Easy to Remember: Pinpointing Position globally via satellite
+
+GRE
+Meaning: Generic Routing Encapsulation
+Explanation: Tunneling protocol that encapsulates traffic
+Real-World Example: GRE tunnels created to securely connect branch offices
+Easy to Remember: Generic tunneling
+
+HMAC
+Meaning: Hash-Based Message Authentication Code
+Explanation: Cryptographic hash function used for message authentication
+Real-World Example: HMAC used to ensure message integrity in TLS and IPsec
+Easy to Remember: Hashed authentication code
+
+HTTP
+Meaning: Hypertext Transfer Protocol
+Explanation: Foundation of data communication for the web
+Real-World Example: Browsers requesting and serving web pages using HTTP
+Easy to Remember: Hypertext web protocol
+
+HTTPS
+Meaning: HTTP Secure
+Explanation: Encrypted HTTP communication over TLS
+
+Real-World Example: Secure websites use HTTPS instead of HTTP
+Easy to Remember: Secure Hypertext web protocol
+
+IDS
+Meaning: Intrusion Detection System
+Explanation: Monitors network for malicious activity and alerts
+Real-World Example: Network IDS detects inbound attacks and raises alerts
+Easy to Remember: Detects network intruders
+
+IoT
+Meaning: Internet of Things
+Explanation: Network of internet-connected smart devices
+Real-World Example: Smart home devices like cameras, lights, appliances connected to the internet
+Easy to Remember: Web of connected devices
+
+IP
+Meaning: Internet Protocol
+
+Explanation: Principal communications protocol for relaying packets
+Real-World Example: Core of Internet networking, every device has an IP address
+Easy to Remember: Delivery protocol for the Internet
+
+IPS
+Meaning: Intrusion Prevention System
+Explanation: Monitors network and blocks intrusions in real-time
+Real-World Example: IPS blocks attacks before they reach assets unlike IDS
+Easy to Remember: Stops intruders, not just detects them
+
+ISP
+Meaning: Internet Service Provider
+Explanation: Provides internet access to customers
+Real-World Example: Residential ISPs like Comcast, Verizon, AT&T etc.
+Easy to Remember: Internet access providers
+
+LAN
+Meaning: Local Area Network
+Explanation: Connects network devices in a small geographic area
+Real-World Example: Home or office LAN connecting their devices
+Easy to Remember: Local network in one place
+
+MAC
+Meaning: Media Access Control
+Explanation: Unique identifier assigned to a network interface
+Real-World Example: MAC addresses of network cards used for identification
+Easy to Remember: Physical address of a device
+
+MD5
+Meaning: Message Digest 5
+Explanation: Cryptographic hash function producing 128-bit hash
+Real-World Example: MD5 used to verify data integrity of files
+Easy to Remember: Message Digest, 5th version
+
+MIB
+Meaning: Management Information Base
+Explanation: Database of network management information
+Real-World Example: SNMP uses MIBs to monitor status of network devices
+Easy to Remember: Informative database for network management
+
+MTU
+Meaning: Maximum Transmission Unit
+Explanation: Size limit of single data unit transmitted
+Real-World Example: 1500 byte MTU on an Ethernet LAN
+Easy to Remember: Max size of a packet
+
+NAT
+Meaning: Network Address Translation
+Explanation: Maps internal IP to an external public IP address
+Real-World Example: NAT allows devices on private networks to access public Internet
+Easy to Remember: Translates "private" IPs to public IPs
+
+NIC
+Meaning: Network Interface Card
+Explanation: Enables network communication via a physical port
+Real-World Example: Ethernet NIC provides interface to connect to networks
+Easy to Remember: Network hardware card
+
+NTP
+Meaning: Network Time Protocol
+
+Explanation: Synchronizes time over a network connection
+Real-World Example: NTP servers provide precise time to systems over a network
+Easy to Remember: Network time sync protocol
+
+OCSP
+Meaning: Online Certificate Status Protocol
+Explanation: Checks validity status of digital certificate
+Real-World Example: OCSP used to check if an SSL certificate has been revoked
+Easy to Remember: Online SSL Certificate verification
+
+OS
+Meaning: Operating System
+Explanation: System software managing hardware/software resources
+Real-World Example: Microsoft Windows, Mac OS X, Linux operating systems
+Easy to Remember: Software operating the computer system
+
+OSI
+Meaning: Open Systems Interconnection model
+Explanation: Conceptual model of network communication
+Real-World Example: OSI model used to understand network stacks theoretically
+Easy to Remember: Open interconnection framework
+
+OU
+Meaning: Organizational Unit
+Explanation: Node in hierarchical directory structure
+Real-World Example: OUs in Active Directory contain users, groups, etc.
+Easy to Remember: Organizational components
+
+PAP
+Meaning: Password Authentication Protocol
+Explanation: Authenticates using password over PPP
+Real-World Example: PAP used to authenticate dial-up PPP connections
+Easy to Remember: Password authentication
+
+PAT
+Meaning: Port Address Translation
+Explanation: NAT extension mapping multiple IPs to unique ports
+Real-World Example: PAT allows many devices to share one public IP address
+Easy to Remember: Many ports, one IP
+
+PCI
+Meaning: Payment Card Industry
+Explanation: Credit card companies' security standards
+
+Real-World Example: Retailers must be PCI-compliant to accept credit transactions
+Easy to Remember: Securing payment card data
+
+PEAP
+Meaning: Protected Extensible Authentication Protocol
+Explanation: Secure network authentication protocol
+Real-World Example: PEAP used for wireless authentication to servers
+Easy to Remember: Protected authentication
+
+PFS
+Meaning: Perfect Forward Secrecy
+Explanation: Prevents retroactive decryption if encryption keys are compromised
+Real-World Example: PFS used in SSL/TLS to maintain secrecy of past communications
+Easy to Remember: Perfect secrecy going forward
+
+PKI
+Meaning: Public Key Infrastructure
+Explanation: Framework for authenticating via public keys
+Real-World Example: PKI underpins certificate-based authentication on websites
+Easy to Remember: Infrastructure for public-key management
+
+POP3
+Meaning: Post Office Protocol v3
+Explanation: Protocol for email retrieval from server
+Real-World Example: Email clients use POP3 to download messages from mailbox
+Easy to Remember: Post Office Protocol version 3
+
+PPP
+Meaning: Point-to-Point Protocol
+Explanation: Establishes direct connection between nodes
+Real-World Example: PPP connections for dial-up modems, DSL etc.
+Easy to Remember: Point to Point dial-up Protocol
+
+RADIUS
+Meaning: Remote Authentication Dial-In User Service
+Explanation: Centralized AAA (authentication, authorization, accounting) management
+Real-World Example: RADIUS servers authenticate users in corporate networks
+Easy to Remember: Remotely authenticating dial-in users
+
+RDP
+Meaning: Remote Desktop Protocol
+Explanation: Remotely access full Windows desktop environments
+Real-World Example: Using RDP client to control corporate work computers remotely
+Easy to Remember: Remote desktop access
+
+RSA
+Meaning: Rivest–Shamir–Adleman cryptosystem
+Explanation: Public-key cryptosystem algorithm widely used in practice
+Real-World Example: RSA public-private keys used for securing data in transit
+Easy to Remember: Names of the creators - Rivest, Shamir, Adleman
+
+SAN
+Meaning: Storage Area Network
+Explanation: High-speed network of storage devices
+Real-World Example: SAN provides centralized data access and storage management
+Easy to Remember: Network just for storage
+
+SCP
+Meaning: Secure Copy Protocol
+Explanation: Securely transfers files over SSH connection
+Real-World Example: Using SCP to copy files between servers over an encrypted SSH session
+Easy to Remember: Secure Copy Protocol
+
+SDLC
+Meaning: System Development Life Cycle
+Explanation: Defines stages of IT system development
+Real-World Example: Following SDLC ensures secure systems from design through deployment
+Easy to Remember: Software development life cycle
+
+SDRAM
+Meaning: Synchronous Dynamic Random Access Memory
+Explanation: Widely used computer memory synchronously refreshed
+Real-World Example: SDRAM provides high-speed memory in modern computers
+Easy to Remember: Synchronous DRAM
+
+SHA
+Meaning: Secure Hash Algorithm
+Explanation: Cryptographic hash functions published as standards
+Real-World Example: SHA-256 used extensively for secure hash needs
+Easy to Remember: Secure Hashing Standard
+
+SMTP
+Meaning: Simple Mail Transfer Protocol
+
+Explanation: Transmits email messages between servers
+Real-World Example: Email servers use SMTP to send emails across the Internet
+Easy to Remember: Simple email sending protocol
+
+SNMP
+Meaning: Simple Network Management Protocol
+Explanation: Protocol for collecting and organizing network device data
+Real-World Example: SNMP used for remote monitoring and management of network devices
+Easy to Remember: Simple network monitoring protocol
+
+SOC
+Meaning: Security Operations Center
+Explanation: Facility to monitor and analyze security threats
+Real-World Example: Working in a SOC responding to security incidents
+Easy to Remember: Security command center
+
+SPF
+Meaning: Sender Policy Framework
+Explanation: Prevents email spoofing and phishing
+Real-World Example: Implementing SPF to authenticate legitimate email senders
+Easy to Remember: Stop Phishing and Fraud
+
+SSID
+Meaning: Service Set Identifier
+Explanation: Name identifying a wireless network
+Real-World Example: Connecting to a Wi-Fi network by selecting its SSID
+Easy to Remember: Network name identifier
+
+SSH
+Meaning: Secure Shell Protocol
+Explanation: Encrypted network protocol for secure remote login and command execution
+Real-World Example: Using SSH to securely administer remote servers
+Easy to Remember: Secure SHell
+
+SSL
+Meaning: Secure Sockets Layer
+Explanation: Encrypts communication over TCP/IP networks
+Real-World Example: Websites use SSL to secure HTTPS connections
+Easy to Remember: Secure Socket protocol
+
+TCP
+Meaning: Transmission Control Protocol
+Explanation: Fundamental protocol for transmission over the Internet
+Real-World Example: TCP powers HTTP, FTP, SSH, and most Internet communication
+Easy to Remember: Reliable data Transmission protocol
+
+TFTP
+Meaning: Trivial File Transfer Protocol
+Explanation: Simplified version of FTP for basic file transfers
+Real-World Example: TFTP enables basic equipment firmware transfers
+
+Easy to Remember: Trivial File Transfer
+
+TKIP
+Meaning: Temporal Key Integrity Protocol
+Explanation: Encryption protocol used in WPA wireless security
+Real-World Example: TKIP used in WPA networks with older hardware that can't use AES
+Easy to Remember: Temporary Key Integrity
+
+TLS
+Meaning: Transport Layer Security
+Explanation: Cryptographic protocol providing communication security
+
+Real-World Example: Websites use TLS to encrypt HTTPS connections
+Easy to Remember: Successor to SSL
+
+UDP
+Meaning: User Datagram Protocol
+Explanation: Simple "fire and forget" transmission model
+Real-World Example: DNS and streaming media uses UDP for faster performance
+Easy to Remember: Unreliable Datagram Protocol
+
+VLAN
+Meaning: Virtual LAN
+Explanation: Logically separated network segment
+Real-World Example: Using VLANs to segment departments over a shared network
+Easy to Remember: Virtual LAN segment
+
+VPN
+Meaning: Virtual Private Network
+Explanation: Extends private network over public networks
+Real-World Example: VPN allows secure remote access over the public Internet
+Easy to Remember: Virtual Private Networking
+
+WAN
+Meaning: Wide Area Network
+Explanation: Connects networks across large geographic areas
+Real-World Example: Corporate WAN connects offices across regions
+Easy to Remember: Wide-area interNetwork
+
+WEP
+Meaning: Wired Equivalent Privacy
+Explanation: Deprecated wireless security protocol
+Real-World Example: Insecure WEP replaced by WPA2 on modern Wi-Fi networks
+Easy to Remember: Weak wireless Encryption Protocol
+
+WPA
+Meaning: Wi-Fi Protected Access
+Explanation: Secures wireless network connections
+
+Real-World Example: Modern Wi-Fi networks use WPA2 security
+Easy to Remember: Wireless Protected Access
+
+XSRF
+Meaning: Cross-Site Request Forgery
+Explanation: Forces a user to execute unwanted actions
+Real-World Example: XSRF attack tricks user to initiate unauthorized money transfer
+Easy to Remember: X = Cross-site forgery
